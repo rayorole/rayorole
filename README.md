@@ -4,10 +4,11 @@
 
 
 Welcome to my page! </br> I'm Ray, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" width="13"/> <b>Kessel, Belgium</b>.
-<img src="https://komarev.com/ghpvc/?username=rayorole&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rayorole" /> 
+<p><img src="https://komarev.com/ghpvc/?username=rayorole&label=Profile%20views&color=0e75b6&style=flat"
+    alt="rayorole" /></p>
   
 ## Technologies I work with
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> 
