@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](https://github.com/braydoncoyer/braydoncoyer/blob/main/assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](https://cutewallpaper.org/21/background-gif-animation/Abstract-Animated-Background-GIFs-Tenor.gif)](https://braydoncoyer.dev)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
