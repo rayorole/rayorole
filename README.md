@@ -81,7 +81,7 @@ Welcome to my page! </br> I'm Ray, Fullstack developer from <img src="https://cd
 <img src="https://github-readme-stats.vercel.app/api?username=rayorole&theme=tokyonight" alt="My stats"/>
 
 <a href="https://github.com/rayorole">
-  <img align="center" style="margin:0.5rem" src="" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayorole&hide=html,css&title_color=70a4fc&text_color=38bcad&icon_color=4AB197&bg_color=1a1b27" />
 </a>
 
 
