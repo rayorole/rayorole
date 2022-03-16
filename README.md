@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Ray, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" width="13"/> <b>Kessel, Belgium</b>.</p>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=rayorole&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"><img src="https://komarev.com/ghpvc/?username=rayorole&label=Profile%20views&color=0e75b6&style=flat"
     alt="rayorole" /> 
   </p>
 <h3>Technologies I work with</h3>
