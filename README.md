@@ -38,7 +38,6 @@ Welcome to my page! </br> I'm Ray, Fullstack developer from <img src="https://cd
   <img alt="C#"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Arch linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
-<br>
 
 ## Open source projects
 
@@ -76,6 +75,8 @@ Welcome to my page! </br> I'm Ray, Fullstack developer from <img src="https://cd
     </tr>
   </tbody>
 </table>
+
+## My Github statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=rayorole&theme=tokyonight" alt="My stats"/>
 <br>
