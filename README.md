@@ -1,4 +1,4 @@
-[![Ray's GitHub Banner](https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711)](https://github.com/rayorole)
+[![Ray's GitHub Banner](https://i.gifer.com/xK.gif)](https://github.com/rayorole)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
