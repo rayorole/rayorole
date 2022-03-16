@@ -1,4 +1,4 @@
-[![Ray's GitHub Banner]('https://cutewallpaper.org/21/background-gif-animation/Abstract-Animated-Background-GIFs-Tenor.gif')](https://github.com/rayorole)
+[![Ray's GitHub Banner]('./assets/banner.gif')](https://github.com/rayorole)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
