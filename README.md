@@ -1,4 +1,4 @@
-[![Ray's GitHub Banner](https://i.imgur.com/t2TYSbm.gif)](https://github.com/rayorole)
+[![Ray's GitHub Banner](https://github.com/braydoncoyer/braydoncoyer/raw/main/assets/GitHubHeader.png)](https://github.com/rayorole)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
