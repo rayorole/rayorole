@@ -6,6 +6,8 @@
 Welcome to my page! </br> I'm Ray, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" width="13"/> <b>Kessel, Belgium</b>.
 <p><img src="https://komarev.com/ghpvc/?username=rayorole&label=Profile%20views&color=0e75b6&style=flat"
     alt="rayorole" /></p>
+</br>
+My resume: [https://rayorole.github.io](https://rayorole.github.io)
   
 ## Technologies I work with
 
