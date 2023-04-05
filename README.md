@@ -7,7 +7,7 @@ Welcome to my page! </br> I'm Ray, Fullstack developer from <img src="https://cd
 <p><img src="https://komarev.com/ghpvc/?username=rayorole&label=Profile%20views&color=0e75b6&style=flat"
     alt="rayorole" /></p>
 </br>
-My resume: [https://rayorole.github.io](https://rayorole.github.io)
+My resume: <a href="https://rayorole.github.io">https://rayorole.github.io</a>
   
 ## Technologies I work with
 
