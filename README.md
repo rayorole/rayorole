@@ -41,43 +41,6 @@ My resume: <a href="https://rayorole.github.io">https://rayorole.github.io</a>
   <img alt="Arch linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
-## Open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/rayorole/absolutions"><b>Absolutions official website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rayorole/absolutions?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/rayorole/absolutions?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/rayorole/absolutions?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rayorole/absolutions?style=for-the-badge&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/rayorole/cookiestealer"><b>C# Cookiestealer</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rayorole/cookiestealer?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/rayorole/cookiestealer?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/rayorole/cookiestealer?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rayorole/cookiestealer?style=for-the-badge&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/etherspay"><b>Etherspay</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/etherspay/etherspay-token?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/etherspay/etherspay-token?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/etherspay/etherspay-token?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/etherspay/etherspay-token?style=for-the-badge&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
 ## My Github statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=rayorole&theme=tokyonight" alt="My stats"/>
